@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jose",
+      "apellido": "Canto",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "JavaScript desde cero"
+        }
+      ],
+      "id": "6746"
+    },
+    {
+      "id": "84ee",
+      "nombre": "Lorena",
+      "apellido": "Lopez",
+      "materias": [
+        {
+          "nombre": "Audiología"
+        },
+        {
+          "nombre": "Patologías"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "promedio": 8.5,
+      "id": "b3cd"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "promedio": 9.5,
+      "id": "0f09"
+    },
+    {
+      "id": "0f09",
+      "nombre": "Luna",
+      "apellido": "Lopez",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duración": 7,
+      "dificultad": "intermedio",
+      "id": "f2d6"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duración": 7,
+      "dificultad": "alta",
+      "id": "0972"
+    },
+    {
+      "nombre": "JavaScript desde cero",
+      "duración": 7,
+      "dificultad": "baja",
+      "id": "6cef"
+    }
+  ]
+}
